@@ -1,0 +1,37 @@
+body{
+    background-color: #26A69A;
+}
+#container{
+    width: 90%;
+    margin: auto;
+}
+.heading{
+    width: 250px;
+    margin: auto;
+    color: #FFF176;
+    padding: 20px 0;
+}
+.posts{
+    width: 90%;
+    height: fit-content;
+    padding: 15px 0;
+    margin: 10px auto;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.post-id{
+    font-size: 18px;
+    padding: 5px 12px;
+    background-color: #B2DFDB;
+    display: inline-block;
+}
+.title{
+    font-size: 20px;
+}
+.post-info{
+    font-size: 18px;
+    margin: auto 20px;
+}
